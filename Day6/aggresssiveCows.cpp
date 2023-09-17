@@ -1,4 +1,5 @@
 // question link-->https://www.codingninjas.com/studio/problems/aggressive-cows_1082559
+//you will find thsi on coding ninja studios
 
 bool isPossible(vector<int> &stalls, int k,int mid){
     int cowCount=1;
