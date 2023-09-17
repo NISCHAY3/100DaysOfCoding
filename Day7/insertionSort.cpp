@@ -22,7 +22,7 @@ void insertionSort(int arr[], int n)
         arr[j + 1] = temp;
     }
 }
-void printArray(int arr[], int n)
+void printArray(int arr[], int n) 
 {
     for (int i = 0; i < n; i++)
     {
